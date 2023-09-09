@@ -3,4 +3,4 @@ A simple .NET ClassLibrary (C#) used to provide basic abilities of loading and s
 Version: 1.0<br>
 .NET Version: .NET Standard 2.1<br>
 This C# code is copied from https://www.cnblogs.com/fireicesion/p/16809687.html<br>
-*This is a codes-only brench.
+*This is a brench that only has codes.
